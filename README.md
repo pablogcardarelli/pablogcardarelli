@@ -1,7 +1,7 @@
 # Pablo Garcia-Cardarelli
 
 Telecommunications engineer and Ph.D. candidate at Tecnun - University of Navarra, working on chipless RFID systems, passive RF sensors, and digital signal processing.  
-My research focuses on low-cost, hardware-based sensing for industrial and IoT applications — combining antenna design, circuit and PCB development, and FPGA implementation. I'm especially interested in **wearable systems**, **wireless monitoring**, and **experimental hardware prototyping** — the kind of work where you learn by building and testing.
+My research focuses on low-cost, hardware-based sensing for industrial and IoT applications, combining antenna design, circuit and PCB development, and FPGA implementation. I'm especially interested in **wearable systems**, **wireless monitoring**, and **experimental hardware prototyping** — the kind of work where you learn by building and testing.
 
 ---
 
